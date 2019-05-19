@@ -4,4 +4,5 @@ A Linux distro application loosely based off of cashier machine operating system
 Setup
 
 In the terminal, type
-#bash
+
+bash setup.sh
